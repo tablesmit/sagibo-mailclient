@@ -1,17 +1,5 @@
-#summary What's new  for Mail client
+#summary MailClient versions changes
 
-Have a quick glance of Plowshare's changes! Here are the cool stuff! This is focused on Plowshare4 (Bash 4 branch).
-
-All regular fixes (bugs, upstream changes) are not shown here. 
-
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= Version 1.0.15 =
+ * I add class MailerTest to do test you need reference to <a href="http://nunit.org/" tarhet="_blank">nunit.framework</a> to run it
+ * I change the App.config example
