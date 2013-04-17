@@ -1,5 +1,10 @@
 #summary MailClient versions changes
 
 = Version 1.0.15 =
- * I add class MailerTest to do test you need reference to <a href="http://nunit.org/" target="_blank">nunit.framework</a> to run it
+ * I add class MailerTest to do test you need reference to <a href="http://nunit.org/">nunit.framework</a> to run it
  * I change the App.config example
+== Dependencies ==
+ * NUnit(≥ 2.6.2)- For test
+
+= Dependencies =
+ * .NET Framework 4.0
